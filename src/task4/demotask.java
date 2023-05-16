@@ -8,6 +8,8 @@ public class demotask {
 			System.out.println("Demo 3");
 			System.out.println("Demo 4");
 			System.out.println("Demo 5");
+			System.out.println("Demo 6");
+			System.out.println("Demo 7");
 		}
 
 
